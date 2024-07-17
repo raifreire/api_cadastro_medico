@@ -40,5 +40,5 @@ Para criar o banco de dados no MySQL, abra o terminal e digite:
 ```bash
 mysql -u root -p ******
 
-gerando continuação e correção...
-obs: projeto inspirado no curso do alura Spring Boot 3: desenvolva uma API Rest em Java voll_med api.
+### gerando continuação e correção...
+### obs: projeto inspirado no curso do alura Spring Boot 3: desenvolva uma API Rest em Java voll_med api.
